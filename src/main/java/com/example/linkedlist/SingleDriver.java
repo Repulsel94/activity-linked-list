@@ -36,6 +36,7 @@ public class SingleDriver {
         System.out.println(list.contains("first"));
         System.out.println(list.contains("seventh"));
         System.out.println(list.contains("fourth"));
+        System.out.println(list.contains("z"));
 
         list.clear();
         System.out.println(list);
